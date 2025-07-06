@@ -45,7 +45,7 @@ npm run install:all
 Copy the environment files:
 ```bash
 cp backend/.env.example backend/.env
-cp frontend/.env.local.example frontend/.env.local
+cp frontend/.env.example frontend/.env.local
 ```
 
 ### 3. Start Database
