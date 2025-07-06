@@ -37,7 +37,7 @@ A production-ready application that allows users to connect their wallet and vie
 
 ```bash
 git clone <repository-url>
-cd token-balance-checker
+cd token-balance-info
 npm run install:all
 ```
 
