@@ -17,7 +17,6 @@ A production-ready application that allows users to connect their wallet and vie
 - **TypeScript** for type safety
 - **Tailwind CSS** for styling
 - **Wagmi** + **Web3Modal** for wallet connection
-- **TanStack Query** for state management
 
 ### Backend
 - **NestJS** with TypeScript
